@@ -1,5 +1,5 @@
 {
-  "name": "portractor test",
+  "name": "protractor",
   "version": "1.0.0",
   "description": "End-to-End Testing with Protractor",
   "main": "index.js",
@@ -8,9 +8,7 @@
     "start": "./node_modules/protractor/bin/protractor config.js"
   },
   "author": "vamsi",
-  "license": "ISC",
   "dependencies": {
-     "protractor": "^3.2.2"
-  },
- 
+    "protractor": "^3.2.2"
+  }
 }
