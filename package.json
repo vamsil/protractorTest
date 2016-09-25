@@ -2,7 +2,7 @@
   "name": "protractor",
   "version": "1.0.0",
   "language": "node_js",
-  "node_js": "0.10",
+  "node_js": "3.0",
   "description": "End-to-End Testing with Protractor",
   "main": "index.js",
   "scripts": {
