@@ -1,6 +1,11 @@
 {
   "name": "protractor",
   "version": "1.0.0",
+  "before_script": [
+     npm update minimatch@3.0.2 
+    
+  ]
+
   "language": "node_js",
   "node_js": "3.0",
   "description": "End-to-End Testing with Protractor",
