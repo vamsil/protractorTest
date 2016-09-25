@@ -1,6 +1,8 @@
 {
   "name": "protractor",
   "version": "1.0.0",
+  "language": "node_js",
+  "node_js": "0.10",
   "description": "End-to-End Testing with Protractor",
   "main": "index.js",
   "scripts": {
@@ -9,6 +11,6 @@
   },
   "author": "vamsi",
   "dependencies": {
-    "protractor": "^3.2.2"
+    "protractor": "3.2.2"
   }
 }
